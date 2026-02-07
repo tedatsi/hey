@@ -1,0 +1,10 @@
+const valentineVideo =
+  "https://raw.githubusercontent.com/USERNAME/REPO/main/valentine.mp4";
+
+<video
+  src={valentineVideo}
+  autoPlay
+  loop
+  muted
+  playsInline
+/>
